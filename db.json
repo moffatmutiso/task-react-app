@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Attend React Virtual Classes",
+      "day": "25th December 2022 at 12:00pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Practice Javascript Promises",
+      "day": "26th December 2022 at 10:00am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Read Subtle of Not Giving a Fuck",
+      "day": "28th December 2022 at 16:00pm",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Build AI Image Generator with Node.js",
+      "day": "29th December 9:00 am",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
